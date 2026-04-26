@@ -1,0 +1,15 @@
+Description
+
+This project is a personal resume website hosted on Microsoft Azure using Azure Storage Static Website hosting.
+
+Services Used
+Azure Resource Group
+Azure Storage Account
+Azure Static Website
+What I Learned
+How to create and organize Azure resources
+How to host a static website in Azure
+How cloud services can be used to publish content online
+Outcome
+
+A live personal resume website deployed in Azure.

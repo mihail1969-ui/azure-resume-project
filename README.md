@@ -85,3 +85,20 @@ https://mihailsstorage.z1.web.core.windows.net/
 Mihail Topalov
 Aspiring Junior Cloud Engineer
 AZ-900 Student / Candidate
+## Screenshots
+
+### Resume Homepage
+![Resume Homepage](images/resume-homepage.png)
+
+### Resume Additional Sections
+![Resume Lower Section](images/resume-lower-section.png)
+
+### Azure Storage Account Overview
+![Azure Storage Account](images/azure-storage-account.png)
+
+---
+
+## Deployment Note
+
+This project was deployed and tested using Microsoft Azure Static Website Hosting.  
+The live Azure endpoint may be inactive due to subscription limitations, but the full source code, screenshots, and deployment architecture are included in this repository.
